@@ -1,6 +1,9 @@
 # Net-paste.com
 PHP project
 
+===There is no live version of the site currently as I'm too poor to keep the host online===
+
+
 To use these source files, do the following in order.
 
 1: Locate config.php and change the variables to which suit you
