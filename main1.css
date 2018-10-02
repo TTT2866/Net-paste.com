@@ -1,0 +1,24 @@
+small {color:gray;} 
+input {color:blue;} 
+placeholder {color:blue;}
+hr {color:yellow;}
+textarea{border: 3px solid #6666cc;}
+p{color:black;}
+h4{color:gray;}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.auto-style1 {
+	font-family: "Helvetica";
+	font-size: large;
+}
