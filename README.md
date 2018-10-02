@@ -25,3 +25,6 @@ IP's from accessing the site altogether by blacklisting it in your HTaccess file
 
 :Known bugs:
 -Sometimes submitting a paste will just go back to the index and nothing will be sent
+
+:Copyright: 
+Nothing is actually copyrighted on the entire site
