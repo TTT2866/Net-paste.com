@@ -35,7 +35,8 @@ $preview1 = substr($paste, 0, 20);
 $admprev = substr($paste, 0, $admin_log_preview);
 $filename = "$domain/id/" . trim($id) . ".html";
 $protocol = $_SERVER['SERVER_PROTOCOL'];
-$browser = $_SERVER['HTTP_USER_AGENT'];
+$browser1 = $_SERVER['HTTP_USER_AGENT'];
+$browser = htmlspecialchars($browser1);
 
 $auth1=md5($ip);
 $auth2=sha1($auth1);
